@@ -46,4 +46,3 @@ Heyo! My name is Tomáš Weglarz, but everyone calls me just Wega. I also prefer
   </a>  
 </p>
 ![](https://dcbadge.vercel.app/api/shield/572086253063766028)
-
