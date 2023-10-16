@@ -2,7 +2,7 @@
 Heyo! My name is Tomáš Weglarz, but everyone calls me just Wega. I also prefer it that way ;). I am a Cybersecurity Student at SSPŠ, in Prague. Server administration is my hobby and love, but I also like programming in Java. My repos here are mostly just small hobby projects I like to work on in my free time. 
 
 ## I work with
-![My Skills](https://skillicons.dev/icons?i=bash,cs,cloudflare,docker,git,github,gradle,java,linux,maven,mysql,rabbitmq,redis,regex)
+[![My Skills](https://skillicons.dev/icons?i=bash,cs,cloudflare,docker,git,github,gradle,java,linux,maven,mysql,rabbitmq,redis,regex)](#)
 
 ## Find me on 
 <p align="left">
