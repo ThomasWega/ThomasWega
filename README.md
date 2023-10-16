@@ -18,3 +18,6 @@ Heyo! My name is Tomáš Weglarz, but everyone calls me just Wega. I also prefer
   <img src="svg/gmail.png" alt="gmail" style="vertical-align: top; margin: 6px 4px; width: 50px; height: 45px;">
   </a>
 </p>
+
+## Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasWega&theme=gruvbox)
