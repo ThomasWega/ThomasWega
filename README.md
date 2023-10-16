@@ -45,3 +45,5 @@ Heyo! My name is Tomáš Weglarz, but everyone calls me just Wega. I also prefer
     <img src="svg/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
+![](https://dcbadge.vercel.app/api/shield/572086253063766028)
+
