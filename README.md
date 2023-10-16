@@ -20,4 +20,4 @@ Heyo! My name is Tomáš Weglarz, but everyone calls me just Wega. I also prefer
 </p>
 
 ## Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasWega&theme=gruvbox)
+[![My Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasWega&theme=gruvbox)](https://github.com/ThomasWega)
