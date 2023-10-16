@@ -15,6 +15,6 @@ Heyo! My name is Tomáš Weglarz, but everyone calls me just Wega. I also prefer
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
   <a href="mailto:tomous.wega@gmail.com">
-    <img src="svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  <img src="svg/gmail.svg" alt="gmail" style="vertical-align: top; margin: 6px 4px; width: 50px; height: 50px;">
+  </a>
 </p>
