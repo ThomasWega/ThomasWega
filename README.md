@@ -1,3 +1,5 @@
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=cf9904&text=Tomáš%20Weglarz&height=200&fontSize=60&desc=Programmer%20and%20SysAdmin&descAlignY=75&descAlign=60)
+
 # 💫 About Me:
 Heyo! My name is Tomáš Weglarz, but everyone calls me just Wega. I also prefer it that way ;). I am a Cybersecurity Student at SSPŠ, in Prague. Server administration is my hobby and love, but I also like programming in Java. My repos here are mostly just small hobby projects I like to work on in my free time. 
 
