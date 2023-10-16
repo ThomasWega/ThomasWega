@@ -6,7 +6,7 @@ Heyo! My name is Tomáš Weglarz, but everyone calls me just Wega. I also prefer
 
 ## Find me on 
 <p align="left">
-  <a href="@thomaswega">
+  <a href="/discord.txt">
     <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
   <a href="https://www.instagram.com/weglousek/">
